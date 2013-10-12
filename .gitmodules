@@ -1,0 +1,6 @@
+[submodule "_site"]
+	path = _site
+	url = https://github.com/weihuayi/weihuayi.github.io.git
+[submodule "_posts"]
+	path = _posts
+	url = https://github.com/weihuayi/posts.git
