@@ -13,8 +13,8 @@ pygments: true
 
 # Jekyll-scholar
 scholar:
-  source: ./_source/_bibliography
-  style: ./_source/_bibliography/chicago-manual-of-style-note.csl
+  source: ./_bibliography
+  style: ./_bibliography/chicago-manual-of-style-note.csl
 
 # Pandoc-ruby for converting markdown
 markdown: pandoc
