@@ -11,7 +11,7 @@ module Jekyll
 
       def render(context)
         alt = super
-        path = File.join(context["site"]["baseurl"], "/img", File.basename(context["page"]["url"], ".*"), @markup);
+        path = File.join(context["site"]["baseurl"], "res/images", File.basename(context["page"]["url"], ".*"), @markup);
 
         "<figure><img src=\"#{path}\" alt=\"#{alt}\"><figcaption>#{alt}</figcaption></figure>"
       end
