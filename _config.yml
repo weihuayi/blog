@@ -26,16 +26,19 @@ pandoc:
 topbar:
   - 
     url : '/archive.html'
-    title : 'Archive'
+    title : '存档'
   -
     url : '/categories.html'
-    title : 'Caterories'
+    title : '分类'
   -
     url : '/tags.html'
-    title : 'Tags'
+    title : '标签'
+  -
+    url : '/reading.html'
+    title : '读书计划'
   -
     url : '/about.html'
-    title : 'About'
+    title : '关于我'
 
 
 # Themes are encouraged to use these universal variables 
