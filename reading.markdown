@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-disqus: true
+title: "读书计划"
 ---
 
 ##在读书籍 
